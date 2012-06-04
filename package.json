@@ -3,7 +3,7 @@
 	"version" : "0.0.1",
 	"author" : "John Manero <john.manero@gmail.com>",
 	"homepage" : "https://github.com/jmanero/maildir-courier",
-	"description" : "",
+	"description" : "Read and modify a courier Maildir structure",
 	"keywords" : [ "maildir", "email", "courier" ],
 	"bugs" : {
 		"url" : "https://github.com/jmanero/maildir-courier/issues"
