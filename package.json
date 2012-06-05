@@ -13,7 +13,8 @@
 		"url" : "https://github.com/jmanero/maildir-courier.git"
 	},
 	"dependencies" : {
-		"mailparser" : "0.2.*"
+		"mailparser" : "*",
+		"fs-watcher" : "*"
 	},
 	"licenses": [
 	     {
